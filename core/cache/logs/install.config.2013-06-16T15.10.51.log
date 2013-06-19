@@ -1,0 +1,20 @@
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not copy /var/www/modx/core/packages/core/modContext/f0a70176dc683a7939121f02536cc6d2/0/ to /var/www/modx/index.php
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not copy /var/www/modx/core/packages/core/modContext/f0a70176dc683a7939121f02536cc6d2/1/ to /var/www/modx/ht.access
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not copy /var/www/modx/core/packages/core/modContext/a5f02af90eec8b613bd7efefbd573038/0/ to /var/www/modx/manager/assets
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not copy /var/www/modx/core/packages/core/modContext/a5f02af90eec8b613bd7efefbd573038/1/ to /var/www/modx/manager/controllers
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not copy /var/www/modx/core/packages/core/modContext/a5f02af90eec8b613bd7efefbd573038/2/ to /var/www/modx/manager/templates
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not copy /var/www/modx/core/packages/core/modContext/a5f02af90eec8b613bd7efefbd573038/3/ to /var/www/modx/manager/min
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not copy /var/www/modx/core/packages/core/modContext/a5f02af90eec8b613bd7efefbd573038/4/ to /var/www/modx/manager/ht.access
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not copy /var/www/modx/core/packages/core/modContext/a5f02af90eec8b613bd7efefbd573038/5/ to /var/www/modx/manager/cache.manifest.php
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not copy /var/www/modx/core/packages/core/modContext/a5f02af90eec8b613bd7efefbd573038/6/ to /var/www/modx/manager/index.php
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/c7f15ed432d3ad5e9c782f192248f880/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/e80c71e366b0c6f7f7702b7f47910911/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/c501a6fcd3d983c7108950a3428db356/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/284e72252a89a97a1f1ce54170bfb18f/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/4e71a3b1e5d07d5331e64198a4d031dd/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/eea1733a4b6d338ff90d88915603baad/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/ca9e4de46195226a3032199baf5c9a21/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/d55084ac95e3cf4d7e9e52efbab22ced/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/bed624aeb5d2a8a199101820d0290af1/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/3df9aeea11d5212138c3567bcb68bde1/ to /var/www/modx/connectors/
+[2013-06-16 15:10:57] (ERROR @ /modx/setup/index.php) Could not install files from /var/www/modx/core/packages/core/xPDOFileVehicle/b39676001ca4bb507f8b849469494ff0/ to /var/www/modx/connectors/
